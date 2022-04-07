@@ -1,5 +1,5 @@
 $(document).ready(function () {
-  var now = moment().format("dddd, MMMM Do YYYY"); // Day, M/D/Y/T format
+  var now = moment().format("dddd, MMMM Do YYYY"); // Day, M/D/Y/ format
 
   // Display current date
 
